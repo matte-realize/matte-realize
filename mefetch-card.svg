@@ -7,9 +7,9 @@
     .divider   { fill: #8b949e; font-family: monospace; font-size: 12px; font-weight: bold; }
     .dividash  { fill: #8b949e; font-family: monospace; font-size: 12px; }
     .sep       { fill: #30363d; }
-    .key       { fill: #58a6ff; font-family: monospace; font-size: 11px; }
-    .val       { fill: #cdd9e5; font-family: monospace; font-size: 11px; }
-    .ascii     { fill: #cdd9e5; font-family: monospace; font-size: 5.8px; }
+    .key       { fill: #d7a0f3; font-family: monospace; font-size: 11px; }
+    .val       { fill: #84bcd7; font-family: monospace; font-size: 11px; }
+    .ascii     { fill: #84bcd7; font-family: monospace; font-size: 5.8px; }
     .dot       { fill: #444d56; font-family: monospace; font-size: 11px; }
     .dots      { fill: #444d56; font-family: monospace; font-size: 11px; }
     .green     { fill: #3fb950; font-family: monospace; font-size: 11px; }
@@ -97,7 +97,7 @@
 
   
   
-  <text class="key" x="308" y="47" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Description<tspan class="dot">:</tspan> <tspan class="dots">..........................................</tspan><tspan class="val">Engineer, 3D ARtist</tspan></text>
+  <text class="key" x="308" y="47" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Description<tspan class="dot">:</tspan> <tspan class="dots">..........................................</tspan><tspan class="val">Engineer, 3D Artist</tspan></text>
   
   
   
@@ -148,7 +148,7 @@
   
   
   
-  <text class="key" x="308" y="268" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>LinkedIn<tspan class="dot">:</tspan> <tspan class="dots">........................................................</tspan><tspan class="val">shi-matt</tspan></text>
+  <text class="key" x="308" y="268" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>LinkedIn<tspan class="dot">:</tspan> <tspan class="dots">........................................................</tspan><tspan class="val">shi0matt</tspan></text>
   
   
   
@@ -167,11 +167,11 @@
   
   
   
-  <text class="key" x="308" y="353" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Commits<tspan class="dot">:</tspan> <tspan class="dots">...............................................................</tspan><tspan class="val">89</tspan></text>
+  <text class="key" x="308" y="353" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Commits<tspan class="dot">:</tspan> <tspan class="dots">...............................................................</tspan><tspan class="val">84</tspan></text>
   
   
   
-  <text class="key" x="308" y="370" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Lines on GitHub<tspan class="dot">:</tspan> <tspan class="dots">..............................</tspan><tspan class="val">453157 (<tspan class="green">905591++</tspan>, <tspan class="red">452434--</tspan>)</tspan></text>
+  <text class="key" x="308" y="370" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Lines on GitHub<tspan class="dot">:</tspan> <tspan class="dots">..............................</tspan><tspan class="val">452983 (<tspan class="green">905334++</tspan>, <tspan class="red">452351--</tspan>)</tspan></text>
   
   
 
