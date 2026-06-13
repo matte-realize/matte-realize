@@ -1,0 +1,178 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="393" viewBox="0 0 860 393">
+  <style>
+    .bg        { fill: #0d1117; }
+    .border    { fill: none; stroke: #30363d; stroke-width: 1; }
+    .title     { fill: #8b949e; font-family: monospace; font-size: 12px; font-weight: bold; }
+    .titledash { fill: #8b949e; font-family: monospace; font-size: 12px; }
+    .divider   { fill: #8b949e; font-family: monospace; font-size: 12px; font-weight: bold; }
+    .dividash  { fill: #8b949e; font-family: monospace; font-size: 12px; }
+    .sep       { fill: #30363d; }
+    .key       { fill: #58a6ff; font-family: monospace; font-size: 11px; }
+    .val       { fill: #cdd9e5; font-family: monospace; font-size: 11px; }
+    .ascii     { fill: #cdd9e5; font-family: monospace; font-size: 5.8px; }
+    .dot       { fill: #444d56; font-family: monospace; font-size: 11px; }
+    .dots      { fill: #444d56; font-family: monospace; font-size: 11px; }
+    .green     { fill: #3fb950; font-family: monospace; font-size: 11px; }
+    .red       { fill: #f85149; font-family: monospace; font-size: 11px; }
+  </style>
+
+  <rect class="bg" width="860" height="393" rx="8" />
+  <rect class="border" x="0.5" y="0.5" width="859" height="392" rx="8" />
+
+  
+  <text class="ascii" x="150" y="77" text-anchor="middle" xml:space="preserve">                             ;+                             </text>
+  
+  <text class="ascii" x="150" y="84" text-anchor="middle" xml:space="preserve">                            .@@,                            </text>
+  
+  <text class="ascii" x="150" y="91" text-anchor="middle" xml:space="preserve">                            *@@?                            </text>
+  
+  <text class="ascii" x="150" y="98" text-anchor="middle" xml:space="preserve">:??*+:,                    .@@@@,                    .:;*?%:</text>
+  
+  <text class="ascii" x="150" y="105" text-anchor="middle" xml:space="preserve"> .*@@@@@%*:.               %@@@@S.               ,+%#@@@@?. </text>
+  
+  <text class="ascii" x="150" y="112" text-anchor="middle" xml:space="preserve">   ,S@@@@@@@?;.           ;@@@@@@;            :*#@@@@@@#:   </text>
+  
+  <text class="ascii" x="150" y="119" text-anchor="middle" xml:space="preserve">    .*@@@@@@@@#*.         S@@@@@@#.        .;S@@@@@@@@%.    </text>
+  
+  <text class="ascii" x="150" y="126" text-anchor="middle" xml:space="preserve">      +@@@@@@@@@@*.      +@@@@@@@@*      .;#@@@@@@@@@?      </text>
+  
+  <text class="ascii" x="150" y="133" text-anchor="middle" xml:space="preserve">       ;@@@@@@@@@@#:    ,@@@@@@@@@@,    ,S@@@@@@@@@@?.      </text>
+  
+  <text class="ascii" x="150" y="140" text-anchor="middle" xml:space="preserve">        +@@@@@@@@@@@*   ?@@@@@@@@@@?   ;@@@@@@@@@@@%        </text>
+  
+  <text class="ascii" x="150" y="147" text-anchor="middle" xml:space="preserve">        .%@@@@@@@@@@@?.,@@@@@@@@@@@@: ;@@@@@@@@@@@@,        </text>
+  
+  <text class="ascii" x="150" y="154" text-anchor="middle" xml:space="preserve">         .@@@@@@@@@@@@*S@@@@@@@@@@@@#;@@@@@@@@@@@@;         </text>
+  
+  <text class="ascii" x="150" y="161" text-anchor="middle" xml:space="preserve">          ?@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@S          </text>
+  
+  <text class="ascii" x="150" y="168" text-anchor="middle" xml:space="preserve">          :@@@@@@@@@@@@@@@@@@@#@@@@@@@@@@@@@@@@@@+          </text>
+  
+  <text class="ascii" x="150" y="175" text-anchor="middle" xml:space="preserve">          .@@@@@@@@@@@@@@@%:.  .:*@@@@@@@@@@@@@@@:          </text>
+  
+  <text class="ascii" x="150" y="182" text-anchor="middle" xml:space="preserve">           S@@@@@@@@@@@@@+        ,@@@@@@@@@@@@@@,          </text>
+  
+  <text class="ascii" x="150" y="189" text-anchor="middle" xml:space="preserve">           S@@@@@@@@@@@@@          %@@@@@@@@@@@@@.          </text>
+  
+  <text class="ascii" x="150" y="196" text-anchor="middle" xml:space="preserve">           S@@@@@@@@@@@@@*.       :@@@@@@@@@@@@@@,          </text>
+  
+  <text class="ascii" x="150" y="203" text-anchor="middle" xml:space="preserve">          .@@@@@@@@@@@@@@@S+,..,;%@@@@@@@@@@@@@@@:          </text>
+  
+  <text class="ascii" x="150" y="210" text-anchor="middle" xml:space="preserve">          :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*          </text>
+  
+  <text class="ascii" x="150" y="217" text-anchor="middle" xml:space="preserve">          ?@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#          </text>
+  
+  <text class="ascii" x="150" y="224" text-anchor="middle" xml:space="preserve">         ,@@@@@@@@@@@@*#@@@@@@@@@@@@@;@@@@@@@@@@@@+         </text>
+  
+  <text class="ascii" x="150" y="231" text-anchor="middle" xml:space="preserve">        .S@@@@@@@@@@@*.;@@@@@@@@@@@@+ :@@@@@@@@@@@@,        </text>
+  
+  <text class="ascii" x="150" y="238" text-anchor="middle" xml:space="preserve">        *@@@@@@@@@@@+   S@@@@@@@@@@#   :#@@@@@@@@@@S.       </text>
+  
+  <text class="ascii" x="150" y="245" text-anchor="middle" xml:space="preserve">       +@@@@@@@@@@S,    ;@@@@@@@@@@+    .?@@@@@@@@@@%.      </text>
+  
+  <text class="ascii" x="150" y="252" text-anchor="middle" xml:space="preserve">      *@@@@@@@@@#;.     .S@@@@@@@@#.      :%@@@@@@@@@%.     </text>
+  
+  <text class="ascii" x="150" y="259" text-anchor="middle" xml:space="preserve">    .%@@@@@@@@S;.        ,@@@@@@@@:         :%@@@@@@@@#,    </text>
+  
+  <text class="ascii" x="150" y="266" text-anchor="middle" xml:space="preserve">   :#@@@@@@S*,            %@@@@@@%            .+%@@@@@@@+.  </text>
+  
+  <text class="ascii" x="150" y="273" text-anchor="middle" xml:space="preserve"> .?@@@@S?;,               :@@@@@@:               .;*S@@@@S, </text>
+  
+  <text class="ascii" x="150" y="280" text-anchor="middle" xml:space="preserve">:**+:,.                    %@@@@%                     .:;+*:</text>
+  
+  <text class="ascii" x="150" y="287" text-anchor="middle" xml:space="preserve">                           .@@@@,                           </text>
+  
+  <text class="ascii" x="150" y="294" text-anchor="middle" xml:space="preserve">                            *@@?                            </text>
+  
+  <text class="ascii" x="150" y="301" text-anchor="middle" xml:space="preserve">                            ,@@,                            </text>
+  
+  <text class="ascii" x="150" y="308" text-anchor="middle" xml:space="preserve">                             +*                             </text>
+  
+  <text class="ascii" x="150" y="315" text-anchor="middle" xml:space="preserve"></text>
+  
+
+  <rect class="sep" x="290" y="12" width="1" height="381" />
+
+  <text class="title" x="308" y="30" textLength="537" lengthAdjust="spacingAndGlyphs"> matte-realize@windows <tspan class="titledash">-----------------------------------------------------</tspan></text>
+
+  
+  
+  <text class="key" x="308" y="47" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Description<tspan class="dot">:</tspan> <tspan class="dots">..........................................</tspan><tspan class="val">Engineer, 3D ARtist</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="64" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Experience<tspan class="val">.</tspan>Companies<tspan class="dot">:</tspan> <tspan class="dots">.....................................</tspan><tspan class="val">Waterside Group</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="81" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Experience<tspan class="val">.</tspan>Organizations<tspan class="dot">:</tspan> <tspan class="dots">..............................</tspan><tspan class="val">ACM@NU, Sandbox@NU</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="98"> <tspan class="dot">·</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="115" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Project<tspan class="val">.</tspan>Highlight<tspan class="dot">:</tspan> <tspan class="dots">................................................</tspan><tspan class="val">Mefetch</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="132" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Project<tspan class="val">.</tspan>Other<tspan class="dot">:</tspan> <tspan class="dots">.......................................</tspan><tspan class="val">SGA CMS, Pact, NUTCS</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="149" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Programming<tspan class="val">.</tspan>Languages<tspan class="dot">:</tspan> <tspan class="dots">............</tspan><tspan class="val">Python, TypeScript, Java, Go, Rust, C++</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="166" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Programming<tspan class="val">.</tspan>Specialities<tspan class="dot">:</tspan> <tspan class="dots">.....................................</tspan><tspan class="val">Systems, AI</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="183"> <tspan class="dot">·</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="200" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Hobbies<tspan class="val">.</tspan>Software<tspan class="dot">:</tspan> <tspan class="dots">.................................</tspan><tspan class="val">Web Design, Product Dev</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="217" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Hobbies<tspan class="val">.</tspan>Real<tspan class="dot">:</tspan> <tspan class="dots">...............................</tspan><tspan class="val">3D, Table Tennis, Art, Travel</tspan></text>
+  
+  
+  
+  
+  
+  
+  <text class="divider" x="308" y="251" textLength="537" lengthAdjust="spacingAndGlyphs"> - Contact - <tspan class="dividash">---------------------------------------------------------------</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="268" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>LinkedIn<tspan class="dot">:</tspan> <tspan class="dots">........................................................</tspan><tspan class="val">shi-matt</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="285" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Website<tspan class="dot">:</tspan> <tspan class="dots">......................................................</tspan><tspan class="val">mattesk.com</tspan></text>
+  
+  
+  
+  
+  
+  
+  <text class="divider" x="308" y="319" textLength="537" lengthAdjust="spacingAndGlyphs"> - GitHub Stats - <tspan class="dividash">----------------------------------------------------------</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="336" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Repos<tspan class="dot">:</tspan> <tspan class="dots">..................................................................</tspan><tspan class="val">5</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="353" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Commits<tspan class="dot">:</tspan> <tspan class="dots">...............................................................</tspan><tspan class="val">89</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="370" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Lines on GitHub<tspan class="dot">:</tspan> <tspan class="dots">..............................</tspan><tspan class="val">453157 (<tspan class="green">905591++</tspan>, <tspan class="red">452434--</tspan>)</tspan></text>
+  
+  
+
+</svg>
